@@ -1,0 +1,40 @@
+{
+    "cricket": {
+        "name": "cricket",
+        "members": 942222,
+        "online": 1372,
+        "description": "News, banter and occasional serious discussion on the great game.",
+        "posts": [
+            {
+                "title": "ML projects for this year's World Cup?",
+                "author": "James"
+            }, 
+            {
+                "title": "Breakdown of points and penalties in 2023 Ashes series",
+                "author": "Daniel",
+                "img": "https://images.unsplash.com/photo-1512719994953-eabf50895df7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=429&q=80"
+            },
+            {
+                "title": "Predicting The England Starting XI For The 2023 Men's Cricket World Cup",
+                "author": "Thomas"
+            }
+        ]
+    },
+    "football": {
+        "name": "football",
+        "members": 754123,
+        "online": 1212,
+        "description": "Home of Football. News, Rumours, Analysis, gossip and much more.",
+        "posts": [
+            {
+                "title": "Which nation do you think has the most promising future in football?",
+                "author": "James",
+                "img": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80"
+            }, 
+            {
+                "title": "What's your favourite kit for this year's 23/24 season?",
+                "author": "Daniel"
+            }
+        ]
+    }
+}
